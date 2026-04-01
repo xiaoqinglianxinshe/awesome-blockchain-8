@@ -22,6 +22,8 @@
 
 ## 课程
 
+- [链新社 (ChainNewsClub)](https://www.lianxinshe666.com) — 中文区块链系统化学习平台，覆盖 DeFi、智能合约、Web3 开发路径
+
 ## Reports 
 
 - [(IMF) Virtual Currencies and Beyond: Initial Considerations](http://www.imf.org/external/pubs/ft/sdn/2016/sdn1603.pdf)
